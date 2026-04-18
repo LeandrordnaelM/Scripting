@@ -1,5 +1,13 @@
 #! /usr/bin/python3
 
+##########################
+#Configurazione per Linux#
+##########################
+
+#Inserire all'interno del file /etc/profile
+#if [ -n "$SSH_CLIENT" ]; then
+#/etc/script/smtp.py
+#fi
 
 SMTPserver = '...'
 sender =     '...'
